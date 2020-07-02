@@ -5,8 +5,12 @@ let imagemInimigoGrande;
 let imagemInimigoVoador;
 let imagemGameOver;
 let imagemTelaInicial;
+let imagemVida;
 let fonteTelaInicial;
 let botaoGerenciador;
+let vida;
+let fita;
+
 
 let jogo;
 
